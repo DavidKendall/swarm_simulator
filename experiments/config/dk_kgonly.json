@@ -15,11 +15,11 @@
     "speed": 0.05,
     "rb": [[2.0,2.0], [2.0,2.0]],
     "perim_coord": false,
-    "exp_rate": 0.20000000298023224,
+    "exp_rate": 0.2,
     "stability_factor": 0,
     "kc": [[0.15,0.15], [0.15,0.15]],
     "kd": 0,
-    "kg": 50,
+    "kg": 100,
     "cb": 3,
     "rgf": true
   },
